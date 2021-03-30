@@ -24,9 +24,9 @@ Heroes of Pymoli is a Free-to-Play, Pay-to-PWN game. The in-app purchases includ
 
 ### Built With
 
-* [](Python)
-* [](Pandas)
-* [](Jupyter Notebook)
+* Python
+* Pandas
+* Jupyter Notebook
 
 
 

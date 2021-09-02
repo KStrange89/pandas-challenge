@@ -1,54 +1,12 @@
+## Heroes of Pymoli
 
-  <h3 align="center">Pandas Challenge</h3>
+Heroes of Pymoli is a Free-to-Play, Pay-to-PWN game. The in-app purchases include epic items and skills to enhance the players experience. The creators of Heroes of Pymoli have asked to have meaningful insights taken from it's purchasing data.
 
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
-</p>
+To do this, I used Pandas in Python.
 
+I found that while the majority of players identify as male, those players spend the least on average. I also found that players below the age of 10 spend the most, on average, out of any age group. However, the 20-24 age range has the second largest average purchase price and so, because the 20-24 age range has considerably more players and more purchases, they are the group that provides the greatest revenue.
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-Heroes of Pymoli is a Free-to-Play, Pay-to-PWN game. The in-app purchases include epic items and skills to enhance the players experience. The creators of Heroes of Pymoli have asked to have meaningful insights taken from it's purchasing data 
-
-
-### Built With
-
-* Python
-* Pandas
-* Jupyter Notebook
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Katie Strange - (https://www.linkedin.com/in/katie-strang%C3%A8/)
-
-Project Link: (https://github.com/KStrange89/pandas-challenge)
+![alt text](https://github.com/KStrange89/pandas-challenge/blob/main/purchase.png)
 
 
 
